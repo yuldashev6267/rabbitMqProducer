@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7fVU6cT9SG4uaJ4WMykIsG816mr/lAtgyo2B6eErf9UtKzPKQ+Vw/hwG7sPXbtObi9of6wJ4RqOawEGv9l9dMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\test\\c#\\RabbitMqProducer\\RabbitMqProducer\\RabbitMqProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sarvar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Sarvar\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Sarvar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sarvar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
